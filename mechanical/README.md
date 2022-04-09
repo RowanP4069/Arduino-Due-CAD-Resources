@@ -1,4 +1,4 @@
-Mechanical drawings of the Due footprint (which is identical to the Mega2560) 
+**Mechanical drawings of the Due footprint** (which is identical to the Mega2560) 
 
 *arduino_mega_drawing.svg* by Mathew Beckler. Retrieved via https://blog.arduino.cc/2011/01/05/nice-drawings-of-the-arduino-uno-and-mega-2560/ 2022-04-09.
 
